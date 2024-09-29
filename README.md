@@ -25,3 +25,12 @@ Data Visualization Tools:
 
 Tableau: User-friendly software for creating interactive visualizations.
 Power BI: Microsoft’s tool for data analytics and visualization, integrating seamlessly with other Microsoft product
+
+### Tools Used
+- Microsoft Excel for Data Cleaning and Analysis and Visualization [Download Here](https://www.microsoft.com)
+  1. For Data cleaning
+  2. For Analysis
+  3. For Data visualization
+  4. 
+- SQL - Structured Querry Language for Querrying of Data
+- GitHub for Portflio Building
