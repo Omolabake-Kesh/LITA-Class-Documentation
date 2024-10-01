@@ -75,6 +75,7 @@ By focusing on these elements—purpose, audience, organization, clarity, and re
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 
+
 ### Data Visualization
 
 ![Picture Data Analysis](https://github.com/user-attachments/assets/4bf8765d-890f-4677-8900-b51dbe3bb4de)
