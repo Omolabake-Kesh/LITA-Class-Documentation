@@ -78,12 +78,11 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
+
 ![Picture Data Analysis](https://github.com/user-attachments/assets/4bf8765d-890f-4677-8900-b51dbe3bb4de)
 
 
-
 ![Picture Data Analysis 2](https://github.com/user-attachments/assets/64f67d25-d3ed-4f96-90a1-df555c2a608d)
-
 
 
 ![Picture Data Analysis 3](https://github.com/user-attachments/assets/cbdc4f02-9a44-4b0c-b250-8e9ca4e27d71)
