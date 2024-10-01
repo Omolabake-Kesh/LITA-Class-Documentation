@@ -1,6 +1,19 @@
 # LITA-Class-Documentation
 
 ### Project Title: E commerce Sales Analysis
+
+[Project Overview](#Project-Overview)
+
+ Data sources
+ 
+ Tools Used
+ 
+ Data Cleaning and Preparations
+
+ 
+
+ ### Project Overview
+ 
 ---
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, inform conclusions, and support decision-making. Here’s a breakdown of its key components, techniques, and tools:
 
@@ -35,7 +48,7 @@ Power BI: Microsoft’s tool for data analytics and visualization, integrating s
 - SQL - Structured Querry Language for Querrying of Data
 - GitHub for Portflio Building
 
-  ### Data Cleaning and Preparation
+  ### Data Cleaning and Preparations
  - Applications of Data Analysis
  - 
    1.Business Intelligence: Enhancing decision-making through data insights.
