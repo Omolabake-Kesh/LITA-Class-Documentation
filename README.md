@@ -71,7 +71,7 @@ By focusing on these elements—purpose, audience, organization, clarity, and re
 - And always cite your sources properly to maintain credibility,
   
 ### Data Analysis
-```SQL
+
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 
@@ -86,3 +86,7 @@ WHERE CONDITION = TRUE
 
 
 ![Picture Data Analysis 3](https://github.com/user-attachments/assets/cbdc4f02-9a44-4b0c-b250-8e9ca4e27d71)
+
+🥇
+
+😆
