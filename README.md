@@ -10,15 +10,15 @@ This project is on sales data and customer subscription data.The sales data cont
 The data set was provided as part of the course to enable us work on a huge data and exploir our acquired skill. The data is selected from a public domain and refereced. My duty is to 
  ensure that the given data is well presented and sunnarised fora better understanding even to the common man.
 
- ##Tools Used:
- Excel: Microsofoft.
-        * For Data cleaning
-        * For Analysis
-        * Visualization
- SQL: Structured Query Language.
-      * For querying of Data.
- Power BI. Measures and Visualization.
- Github: For portfolio Building.
+ ## Tools Used:
+-  Microsofoft  Excel [Download Here](https://www.microsoft.com)
+    1. For Data cleaning
+    2. For Analysis
+    3. For Data Visualization
+ - SQL: Structured Query Language.
+      1. For querying of Data.
+ - Power BI. Measures and Visualization.
+  - Github: For portfolio Building.
  
 ## Precaution:
 - I ensured that the data given to me by my instructors are not altared by external factor even though i will still carryout data cleaning on it.
@@ -32,7 +32,10 @@ The data set was provided as part of the course to enable us work on a huge data
 - I ensure to make headers and make measures where neccessary.
 - putting my system to the source of power for effective work.
 
-# Step 1: Excel ( Sales Data)
+
+# Data Cleaning and Prepaaration
+
+## Step 1: Excel ( Sales Data)
 ### Summary: In this project, you are tasked with analyzing the sales performance of a retail store. 
 You will need to explore sales data to uncover key insights such as top-selling products, regional 
 performance, and monthly sales trends. The goal is to produce an interactive Power BI 
