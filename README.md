@@ -1,5 +1,5 @@
 # MY FINAL YEAR PROJECT AS A STUDENT OF INCUBATOR HUB
-### project Title: Lita Sales and Customer Data
+## project Title: Lita Sales and Customer Data
 
 ## Project Steps: This project will be done in steps. Step 1 Excel Step2 SQL: Structure Query Language. Step3 Power BI
 
@@ -10,7 +10,7 @@ This project is on sales data and customer subscription data.The sales data cont
 The data set was provided as part of the course to enable us work on a huge data and exploir our acquired skill. The data is selected from a public domain and refereced. My duty is to 
  ensure that the given data is well presented and sunnarised fora better understanding even to the common man.
 
- ##Tools Used
+ ##Tools Used:
  Excel: Microsofoft.
         *For Data cleaning
         *For Analysis
@@ -45,5 +45,6 @@ o Use Excel formulas to calculate metrics such as average sales per product and
 total revenue by region.
 o Create any other interesting report
 
-### Analysis: Total number of roll in the data set 40079, Remaining 9921 rolls after removing Duplicates, Converted to Table,did Pivot Table,Total Revenue, 
+### Analysis:
+Total number of roll in the data set 40079, Remaining 9921 rolls after removing Duplicates, Converted to Table,did Pivot Table,Total Revenue, 
 
