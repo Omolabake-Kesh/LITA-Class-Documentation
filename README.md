@@ -74,7 +74,15 @@ Fig 5 Sales: The above picture shows Average and Total Sales.
 ![SALES TREND](https://github.com/user-attachments/assets/d3843c6b-9019-4202-a2c9-3a1869780b95)
 Fig 6 Sales:  The above picture shows Sales Trend of each Period.
 
+
+### Other Interesting Report:
+- percentage Sales 
+- Trends
+- Percentage Round total sales
+  
+
 ## Deduction from the Sales Data Set:
+
 The sales Data is very interesting to work on is quick voluminous in number fiiled with repeated entries. There are many factors that can cause repeated values such as file corruption, mental,emotion,pschological health state of the collector and lack of invigilation among others. after,proviing answers to the questions given. I decided to give my interesting report by calculating the percentage total sales and percentage round total sales. I had to study the trend or you may say partern of sales in the peroid or season(Month), it varies in sales. 
 However,a particular period or season(Month) was out standing increasingly the month called Febuary(The season of love 💌 as is commoly called),now this mean that Families members, friends, huusbands and wivies, boyfriends and girlfriends do competitions in exchange of gifts? 😄 
 
@@ -105,6 +113,14 @@ Fig 1 Customer Subscription: The above picture is the given Customerdata set wit
 ![CUSTOMER PIVOT TABLE](https://github.com/user-attachments/assets/dd6eebe8-40dc-4221-b76c-86fe2c63e321)
 Fig 2 Customer Subscription: The above picture shows the different type of subscription prefered by different customers in different Zones
 
+### Other Interesting Report:
+- Cancellation pattern
+- Round total Revenue
+- Number of subscribers
+- percentag number of subcribers
+- Grand total of each Region
+
+   
 ## Deduction from the Customer Subscription Data Set:
 It is interesting working on the Customer Subscription Data, is fiiled with repeated entries. The Customer subscription data shows the social status and lifestyle of the customers in different zones. There are three(3) subscription; Premium(more expensive), Standard(expensive) and Basic(affodable). It is seen that the South zone prefers premium may due to their expensive lifestyle or social status, the west zone prefers Standard may be due to lifestyle, while the East and North prefers Basic may lifestyle or low income earners.
 
