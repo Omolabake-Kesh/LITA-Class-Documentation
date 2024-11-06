@@ -31,7 +31,7 @@ The data set was provided as part of the course to enable us work on a huge data
 - I removed duplicate where neccessry.
 - I ensure to make headers and make measures where neccessary.
 - putting my system to the source of power for effective work.
-
+- I removed the decimal point of the figure so that my pivot table will be on one sheet none will be hidden within the bars
 
 # Data Cleaning and Prepaaration
 
@@ -48,6 +48,7 @@ total sales by product, region, and month.
 total revenue by region.
 - Create any other interesting report
 
-### Analysis:
-Total number of roll in the data set 40079, Remaining 9921 rolls after removing Duplicates, Converted to Table,did Pivot Table,Total Revenue, 
+### Data Analysis/ Visualization.
+Total number of roll in the data set 40079, Remaining 9921 rolls after removing Duplicates, Converted to Table,did Pivot Table,Total Revenue, Average and Percentage. 
+
 
