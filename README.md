@@ -48,7 +48,34 @@ total sales by product, region, and month.
 total revenue by region.
 - Create any other interesting report
 
-### Data Analysis/ Visualization.
+### Data Analysis/ Visualization (Sales Data Set)
 Total number of roll in the data set 40079, Remaining 9921 rolls after removing Duplicates, Converted to Table,did Pivot Table,Total Revenue, Average and Percentage. 
+
+![SALES TABLE](https://github.com/user-attachments/assets/ac5899b1-a484-40d6-ae74-ad7de086c77b)
+Fig 1 Sales: The above picture is the given salesdata with duplicates. I removed the duplicates and converted it into Table.
+
+
+![TOTAL SALES BY PRODUCT](https://github.com/user-attachments/assets/0f285ad9-80be-45a7-9e4b-56fdeb1c5610)
+Fig 2 Sales: The above picture shows Pivot Table of Total Sales by Product.
+
+
+![TOTAL SALES BY REGION](https://github.com/user-attachments/assets/a0ea4b66-0c59-4211-8ced-043782a2a486)
+Fig 3 Sales: The above picture shows Pivot Table of Total Sales by Region.
+
+
+![TOTAL SALES BY PERIOD](https://github.com/user-attachments/assets/f6d16e3d-34fc-434c-87f9-90131b8af02c)
+Fig 4 Sales: The above picture shows Pivot Table of Tables by Period (Month).
+
+
+![AVERAGE AND TOTAL SALE](https://github.com/user-attachments/assets/996ac11a-cd03-4743-8099-2525b9afaf56)
+Fig 5 Sales: The above picture shows Average and Total Sales.
+
+
+![SALES TREND](https://github.com/user-attachments/assets/d3843c6b-9019-4202-a2c9-3a1869780b95)
+Fig 6 Sales:  The above picture shows Sales Trend of each Period.
+
+
+ 
+
 
 
