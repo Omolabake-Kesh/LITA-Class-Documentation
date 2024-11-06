@@ -106,5 +106,7 @@ Fig 1 Customer Subscription: The above picture is the given Customerdata set wit
 Fig 2 Customer Subscription: The above picture shows the different type of subscription prefered by different customers in different Zones
 
 ## Deduction from the Customer Subscription Data Set:
-It is interesting working on the Customer Subscription Data, is fiiled with repeated entries. The Customer subscription data shows the social status and lifestyle of the customers in different zones. There are three(3) subscription; Premium, Standard and Basic
+It is interesting working on the Customer Subscription Data, is fiiled with repeated entries. The Customer subscription data shows the social status and lifestyle of the customers in different zones. There are three(3) subscription; Premium(more expensive), Standard(expensive) and Basic(affodable). It is seen that the South zone prefers premium may due to their expensive lifestyle or social status, the west zone prefers Standard may be due to lifestyle, while the East and North prefers Basic may lifestyle or low income earners.
+
+The East has the highest subscription rate and lowest cancelletion pattern, the North has the highest cancellation pattern follow by South, West and East. The East has the highest revenue it is a call to my client to focus more on the East on how best to satisfy them through it brand and also to the South zone. The North Zone has the least revenue,it call for my client to also look into the North to know the cause, how it can improve and also see if there competitor of it brand in the same Zone doing same by not neglecting the West Zone.
 
