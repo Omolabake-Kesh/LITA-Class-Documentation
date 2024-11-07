@@ -126,3 +126,28 @@ It is interesting working on the Customer Subscription Data, is fiiled with repe
 
 The East has the highest subscription rate and lowest cancelletion pattern, the North has the highest cancellation pattern follow by South West and East. The East has the highest revenue it is a call to my client to focus more on the East on how best to satisfy them through it brand and also to the South region. The North region has the least revenue,it call for my client to also look into the North to know the cause, how it can improve and also see if there is a competitor of it brand in the same region doing the same by not neglecting the West region .
 
+
+
+
+
+
+
+# S Q L: STRUCTURED QUERY LANGUAGE (Sales Data Set)
+
+This is the sql section of the project am working on as a student of incubator hub, the . This part will contain both the Sales and Customer subscription data.
+Total number of rolls in the data set 40079, Remaining 9921 rolls after removing Duplicates. 
+
+### Instructions:
+
+Hint – You need to load the dataset into your SQL Server environment to write and 
+validate your queries.
+Write queries to extract key insights based on the following questions. 
+- Retrieve the total sales for each product category.
+-  Find the number of sales transactions in each region.
+-  Find the highest-selling product by total sales value.
+-  Calculate total revenue per product.
+-  Calculate monthly sales totals for the current year.
+-  Find the top 5 customers by total purchase amount.
+-  Calculate the percentage of total sales contributed by each region.
+- Identify products with no sales in the last quarter.
+
