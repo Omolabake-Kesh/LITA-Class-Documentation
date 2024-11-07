@@ -128,10 +128,6 @@ The East has the highest subscription rate and lowest cancelletion pattern, the 
 
 
 
-
-
-
-
 # S Q L: STRUCTURED QUERY LANGUAGE (Sales Data Set)
 
 This is the sql section of the project am working on as a student of incubator hub, the . This part will contain both the Sales and Customer subscription data.
@@ -150,4 +146,25 @@ Write queries to extract key insights based on the following questions.
 -  Find the top 5 customers by total purchase amount.
 -  Calculate the percentage of total sales contributed by each region.
 - Identify products with no sales in the last quarter.
+
+![SQL SALES DATA CREATION AND DATA](https://github.com/user-attachments/assets/dce96dad-2889-454f-b8df-2511c861d965)
+Fig 1 SQL Sales Data: The above picture shows data input and the creation of sale database,
+
+![SQL SALES DATA CREATION AND DATA 2](https://github.com/user-attachments/assets/6a383255-9f55-444a-bf02-ddb9d67b071c)
+Fig 2 SQL Sales Data: The above picture shows the input of the data.
+
+![SQL SALES DATA  PRODUCT n REGION](https://github.com/user-attachments/assets/f7c368e1-df9f-4e54-837d-6d87b50e2e43)
+Fig 3 SQL Sales Data: The above picture shows sales for each product category and sales transaction in each region.
+
+![SQL SALES DATA SALE VAUE PER  PRODUCT ](https://github.com/user-attachments/assets/15dca993-f26b-4327-808d-880b4218d91c)
+Fig 4 SQL Sales Data: The above picture shows sales for highest selling product by total sales value and total revenue per product.
+
+![SQL SALES DATA  CURRENT YEAR N PURCHASE AMOUNT](https://github.com/user-attachments/assets/e423b4d9-7a7d-49b3-9f17-7030f564e0c9)
+Fig 5 SQL Sales Data: The above picture shows sales total for the current year.
+
+![SQL SALES DATA  EACH REGION n LAST QUARTER](https://github.com/user-attachments/assets/f72921c2-cece-4648-8e95-f78a6b4b2194)
+Fig 6 SQL Sales Data: The above picture shows sales contribution by each region and product with no sales in the last quarter.
+
+
+
 
