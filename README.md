@@ -162,9 +162,7 @@ Fig 4 SQL Sales Data: The above picture shows sales for highest selling product 
 ![SQL SALES DATA  CURRENT YEAR N PURCHASE AMOUNT](https://github.com/user-attachments/assets/e423b4d9-7a7d-49b3-9f17-7030f564e0c9)
 Fig 5 SQL Sales Data: The above picture shows sales total for the current year.
 
-![SQL SALES DATA  EACH REGION n LAST QUARTER](https://github.com/user-attachments/assets/f72921c2-cece-4648-8e95-f78a6b4b2194)
-Fig 6 SQL Sales Data: The above picture shows sales contribution by each region and product with no sales in the last quarter.
-
-
+![SQL SALES DATA DISTINT PRODUCT ](https://github.com/user-attachments/assets/9f2c3447-efb5-470d-bfbb-180c14be027a)
+Fig 6 SQL Sales Data: The above picture shows sales on distint product
 
 
