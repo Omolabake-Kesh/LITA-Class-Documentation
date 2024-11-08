@@ -81,7 +81,7 @@ Fig 6 Sales:  The above picture shows Sales Trend of each Period.
 - Percentage Round total sales
   
 
-## Deduction from the Sales Data Set:
+## Deduction from the Excel Sales Data Set:
 
 The sales Data is very interesting to work on is quick voluminous in number fiiled with repeated entries. There are many factors that can cause repeated values such as file corruption, mental,emotion,pschological health state of the collector and lack of invigilation among others. after,proviing answers to the questions given. I decided to give my interesting report by calculating the percentage total sales and percentage round total sales. I had to study the trend or you may say partern of sales in the peroid or season(Month), it varies in sales. 
 However,a particular period or season(Month) was out standing increasingly the month called Febuary(The season of love 💌 as is commonly called),now this mean that Families members, friends, huusbands and wivies, boyfriends and girlfriends do competitions in exchange of gifts? 😄 
@@ -90,7 +90,7 @@ I dont know there may be other factors too affecting the month of Febuary like b
 
 # Data Cleaning and Preparation
 
-## Step 2: Excel ( Customer Data Set)
+## Step 2: Excel ( Customer subscription Data Set)
 ### Project 2: Customer Segmentation for a Subscription Service
 ### Summary: This project involves analyzing customer data for a subscription service to identify 
 segments and trends. Your goal is to understand customer behavior, track subscription types, 
@@ -121,7 +121,7 @@ Fig 2 Customer Subscription: The above picture shows the different type of subsc
 - Grand total of each Region
 
    
-## Deduction from the Customer Subscription Data Set:
+## Deduction from the Excel Customer Subscription Data Set:
 It is interesting working on the Customer Subscription Data, is fiiled with repeated entries. The Customer subscription data shows the social status and lifestyle of the customers in different regions. There are three(3) subscription; Premium(more expensive), Standard(expensive) and Basic(affodable). It is seen that the South region prefers premium maybe due to their expensive lifestyle or social status, the west region prefers Standard maybe due to lifestyle, while the East and North prefers Basic maybe lifestyle or low income earners.
 
 The East has the highest subscription rate and lowest cancelletion pattern, the North has the highest cancellation pattern follow by South West and East. The East has the highest revenue it is a call to my client to focus more on the East on how best to satisfy them through it brand and also to the South region. The North region has the least revenue,it call for my client to also look into the North to know the cause, how it can improve and also see if there is a competitor of it brand in the same region doing the same by not neglecting the West region .
@@ -130,11 +130,10 @@ The East has the highest subscription rate and lowest cancelletion pattern, the 
 
 # S Q L: STRUCTURED QUERY LANGUAGE (Sales Data Set)
 
-This is the sql section of the project am working on as a student of incubator hub, the . This part will contain both the Sales and Customer subscription data.
-Total number of rolls in the data set 40079, Remaining 9921 rolls after removing Duplicates. 
+This is the sql section of the project am working on as a student of incubator hub. This part will contain both the Sales and Customer subscription data.
+Total number of rolls in the sales data set 40079, Remaining 9921 rolls after removing Duplicates. 
 
 ### Instructions:
-
 Hint – You need to load the dataset into your SQL Server environment to write and 
 validate your queries.
 Write queries to extract key insights based on the following questions. 
@@ -160,9 +159,23 @@ Fig 3 SQL Sales Data: The above picture shows sales for each product category an
 Fig 4 SQL Sales Data: The above picture shows sales for highest selling product by total sales value and total revenue per product.
 
 ![SQL SALES DATA  CURRENT YEAR N PURCHASE AMOUNT](https://github.com/user-attachments/assets/e423b4d9-7a7d-49b3-9f17-7030f564e0c9)
-Fig 5 SQL Sales Data: The above picture shows sales total for the current year.
+Fig 5 SQL Sales Data: The above picture shows sales total for the current yeaar and total purchase.
 
-![SQL SALES DATA DISTINT PRODUCT ](https://github.com/user-attachments/assets/9f2c3447-efb5-470d-bfbb-180c14be027a)
-Fig 6 SQL Sales Data: The above picture shows sales on distint product
+![SQL DISTINT PRODUCT HAT](https://github.com/user-attachments/assets/14f6d7e6-6fee-470d-9a8a-f38da53b8099)
+Fig 6 SQL Sales Data: The above picture shows sales of distint product.
 
+# S Q L: STRUCTURED QUERY LANGUAGE (Customer Subscription Data Set).
+Total number of rolls in the sales data set 41213, Remaining 33787 rolls after removing Duplicates.
 
+### Instructions:
+Hint – You need to load the dataset into your SQL Server environment to write 
+and validate your queries.
+Write queries to extract key insights based on the following questions. 
+- retrieve the total number of customers from each region.
+- find the most popular subscription type by the number of customers.
+- find customers who canceled their subscription within 6 months.
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
+- calculate total revenue by subscription type.
+- find the top 3 regions by subscription cancellations.
+- find the total number of active and canceled subscriptions.
