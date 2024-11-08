@@ -1,7 +1,10 @@
 # MY FINAL YEAR PROJECT AS A STUDENT OF INCUBATOR HUB
 ## project Title: Lita Sales and Customer Data.
 
-## Project Steps: This project will be done in steps. Step 1 Excel, Step2 SQL: Structure Query Language. Step3 Power BI.
+##  Project Steps: This project will be done in steps.
+### Step 1 Excel.
+### Step2 SQL: Structure Query Language. 
+### Step3 Power BI.
 
 ## Project overview:
 This project is on sales data and customer subscription data.The sales data contains different product having different price tag while the customer subscription data show the subscription type of different customers in the different region. The sale data is on csv file. This project is to have a better understanding of how a huge,duplicated and unclean data can be clean and be presented,interpreted and summarized to give a meaningful result. By the end of this project i should be able to master the data analysis tools in interpreting and summarising and presenting data appropriately.
@@ -35,7 +38,7 @@ The data set was provided as part of the course to enable us work on a huge data
 
 # Data Cleaning and Preparation
 
-## Step 1: Excel ( Sales Data)
+## STEP 1: Excel ( Sales Data)
 ### Summary: In this project, you are tasked with analyzing the sales performance of a retail store. 
 You will need to explore sales data to uncover key insights such as top-selling products, regional 
 performance, and monthly sales trends. The goal is to produce an interactive Power BI 
@@ -90,7 +93,7 @@ I dont know there may be other factors too affecting the month of Febuary like b
 
 # Data Cleaning and Preparation
 
-## Step 2: Excel ( Customer subscription Data Set)
+## Step 1: Excel ( Customer subscription Data Set)
 ### Project 2: Customer Segmentation for a Subscription Service
 ### Summary: This project involves analyzing customer data for a subscription service to identify 
 segments and trends. Your goal is to understand customer behavior, track subscription types, 
@@ -128,7 +131,7 @@ The East has the highest subscription rate and lowest cancelletion pattern, the 
 
 
 
-# SQL: STRUCTURED QUERY LANGUAGE (Sales Data Set)
+# STEP 2: SQL STRUCTURED QUERY LANGUAGE (Sales Data Set)
 
 This is the sql section of the project am working on as a student of incubator hub. This part will contain both the Sales and Customer subscription data.
 Total number of rolls in the sales data set 40079, Remaining 9921 rolls after removing Duplicates. 
@@ -164,7 +167,7 @@ Fig 5 SQL Sales Data: The above picture shows sales total for the current yeaar 
 ![SQL DISTINT PRODUCT HAT](https://github.com/user-attachments/assets/14f6d7e6-6fee-470d-9a8a-f38da53b8099)
 Fig 6 SQL Sales Data: The above picture shows sales of distint product.
 
-# SQL: STRUCTURED QUERY LANGUAGE (Customer Subscription Data Set).
+# STEP 2: SQL STRUCTURED QUERY LANGUAGE (Customer Subscription Data Set).
 Total number of rolls in the sales data set 41213, Remaining 33787 rolls after removing Duplicates.
 
 ### Instructions:
