@@ -128,7 +128,7 @@ The East has the highest subscription rate and lowest cancelletion pattern, the 
 
 
 
-# S Q L: STRUCTURED QUERY LANGUAGE (Sales Data Set)
+# SQL: STRUCTURED QUERY LANGUAGE (Sales Data Set)
 
 This is the sql section of the project am working on as a student of incubator hub. This part will contain both the Sales and Customer subscription data.
 Total number of rolls in the sales data set 40079, Remaining 9921 rolls after removing Duplicates. 
@@ -164,7 +164,7 @@ Fig 5 SQL Sales Data: The above picture shows sales total for the current yeaar 
 ![SQL DISTINT PRODUCT HAT](https://github.com/user-attachments/assets/14f6d7e6-6fee-470d-9a8a-f38da53b8099)
 Fig 6 SQL Sales Data: The above picture shows sales of distint product.
 
-# S Q L: STRUCTURED QUERY LANGUAGE (Customer Subscription Data Set).
+# SQL: STRUCTURED QUERY LANGUAGE (Customer Subscription Data Set).
 Total number of rolls in the sales data set 41213, Remaining 33787 rolls after removing Duplicates.
 
 ### Instructions:
@@ -179,3 +179,27 @@ Write queries to extract key insights based on the following questions.
 - calculate total revenue by subscription type.
 - find the top 3 regions by subscription cancellations.
 - find the total number of active and canceled subscriptions.
+- 
+![SQL COS CRATE DATABASE n TABLE ](https://github.com/user-attachments/assets/21da3c1f-e40b-45ab-8256-4d80d7ea5784)
+Fig 1 SQL Customer Subscription Data: The above picture shows customer database creation and data input.
+
+![SQL DATA COS DATA INPUT](https://github.com/user-attachments/assets/4b2c7247-48bf-4f84-82a6-0b8f87b67ebe)
+Fig 2 SQL Customer Subscription Data: The above picture shows data input.
+
+![SQL COS FROM EACH REGION AND TYPE BY THE NO OF CUSTOMERS](https://github.com/user-attachments/assets/58919064-776c-42fd-adb3-deb44243080f)
+Fig 3 SQL Customer Subscription Data: The above picture shows customers from each region and subscription types by the number of customers
+
+![SQL COS 6 MONTH n DURATION](https://github.com/user-attachments/assets/a738a1c1-91d2-4562-9a79-cd06b5c9234c)
+Fig 4 SQL Customer Subscription Data: The above picture shows customers subscription types within 6 months and subscription duration for all customers.
+
+![SQL COS 12  MONTH n SUB TYPE ](https://github.com/user-attachments/assets/898a4377-9ac4-4217-8d6a-0b00466daff5)
+Fig 5 SQL Customer Subscription Data: The above picture shows customers subscription types longer than months and total revenue by subscription type.
+
+![SQL COS CANCELLATION n CANCELED SUB](https://github.com/user-attachments/assets/8bef99e9-4f6c-4fdb-bbb3-11a4ac95ed50)
+Fig 4 SQL Customer Subscription Data: The above picture shows 3 region by subscription cancellation and number of active and canceled subscription.
+
+
+
+
+
+
