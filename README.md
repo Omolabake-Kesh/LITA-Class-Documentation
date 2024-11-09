@@ -202,7 +202,21 @@ Fig 5 SQL Customer Subscription Data: The above picture shows customers subscrip
 Fig 4 SQL Customer Subscription Data: The above picture shows 3 region by subscription cancellation and number of active and canceled subscription.
 
 
+# STEP 3: POWER BI (Sales Data Set)
 
+This is the final step for this project Power BI. Power BI section of the project am working on as a student of incubator hub. This part will contain both the Sales and Customer subscription data.
+Total number of rolls in the sales data set 40079, Remaining 9921 rolls after removing Duplicates. 
+
+### Instructions:
+Create a dashboard that visualizes the insights found in Excel and SQL. The 
+dashboard should include a sales overview, top-performing products, and 
+regional breakdowns
+
+![BI SALES TABLE](https://github.com/user-attachments/assets/816e43fd-5c39-4e84-8bea-9ce50fd9b0d8)
+Fig 1 Power BI Sales Data: The above picture shows the sale data in the power query.
+
+![BI SALES PERFORMANCE CHART](https://github.com/user-attachments/assets/7edb462d-7313-4bc8-98b8-76a900ddfcd2)
+Fig 2 Power BI Sales Data: The above picture shows the sale data vitualization
 
 
 
