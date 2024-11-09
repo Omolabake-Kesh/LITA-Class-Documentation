@@ -203,8 +203,12 @@ Fig 4 SQL Customer Subscription Data: The above picture shows 3 region by subscr
 
 
 ## Deduction from SQL Sales and Customer Subscription Data Set:
-Learning SQL was challenging it wasn't easy for me I had to cram just to get it but I notice it didnt work as I for the quer so easily, I had to think on what will make me understand the SQL, SO I crack my head in getting query, stil didnt work. I almost gave on the LITA class bacause of SQL, I thought of what I can do to encourage myself, then I began to encourage other people who had complain in a group I belong whatsapp of giving up on this LITA class TECH journey not to give up and that we are in this together,we have are almost half way to the finishing line 🥇 even when i dont know when the journey will end 😃.
-I told myself that all I need to do is to just understand the English language in SQL and keep encouraging myself. As i write am stll understanding the SQL English even when it seem confusing at time with it punctuation mark (my data analysis journey story to be contd..... 😄)
+The pictures above shows the SQL data and query according the the instruction othe the this project.
+
+Learning SQL was challenging it wasn't easy for me I had to cram just to get it but I notice it didnt work as I forget the query so easily, I had to think on what will make me understand the SQL, SO I crack my head in getting query, still it didnt work. I almost gave up on the LITA class bacause of SQL, I thought of what I can do to encourage myself, then I began to encourage other people who had complain in a group I belong on whatsapp of giving up on this LITA class TECH journey not to give up and that we are in this together,we are almost half way to the finishing line 🥇 even when i dont know when the journey will end 😃.
+
+I told myself that all I need to do is to just understand the English language in SQL and keep encouraging myself. As i write am still understanding the SQL English even when it seem confusing at time with it punctuation mark. I had to do this project by watching the class videos, asking plenty questions from differnt persons in class through calls, whatsapp call,google meet,teams, receive asistance from every good source. I was just open for assistance and learning, I was not ashame to ask for help(my data analysis journey story to be contd..... 😄)
+
 
 # STEP 3: POWER BI (Sales Data Set)
 
