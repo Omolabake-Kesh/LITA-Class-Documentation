@@ -1,6 +1,18 @@
 # MY FINAL YEAR PROJECT AS A STUDENT OF INCUBATOR HUB
 ## project Title: Lita Sales and Customer Data.
 
+ [Project overview](#Project-overview)
+ Data Sources
+ Tools Used
+ Precaution
+ Caution
+ Data Cleaning and Preparation
+ STEP 1: Excel ( Sales Data)
+ STEP 1: Excel ( Customer Subscription Data)
+ STEP 2: SQL ( Sales Data)
+ STEP 2: SQL ( Customer Subscription Data)
+ STEP 3: Power BI ( Sales Data)
+ 
 ##  Project Steps: This project will be done in steps.
 ### Step 1 Excel.
 ### Step2 SQL: Structure Query Language. 
