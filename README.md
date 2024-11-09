@@ -202,6 +202,10 @@ Fig 5 SQL Customer Subscription Data: The above picture shows customers subscrip
 Fig 4 SQL Customer Subscription Data: The above picture shows 3 region by subscription cancellation and number of active and canceled subscription.
 
 
+## Deduction from SQL Sales and Customer Subscription Data Set:
+Learning SQL was challenging it wasn't easy for me I had to cram just to get it but I notice it didnt work as I for the quer so easily, I had to think on what will make me understand the SQL, SO I crack my head in getting query, stil didnt work. I almost gave on the LITA class bacause of SQL, I thought of what I can do to encourage myself, then I began to encourage other people who had complain in a group I belong whatsapp of giving up on this LITA class TECH journey not to give up and that we are in this together,we have are almost half way to the finishing line 🥇 even when i dont know when the journey will end 😃.
+I told myself that all I need to do is to just understand the English language in SQL and keep encouraging myself. As i write am stll understanding the SQL English even when it seem confusing at time with it punctuation mark (my data analysis journey story to be contd..... 😄)
+
 # STEP 3: POWER BI (Sales Data Set)
 
 This is the final step for this project Power BI. Power BI section of the project am working on as a student of incubator hub. This part will contain both the Sales and Customer subscription data.
