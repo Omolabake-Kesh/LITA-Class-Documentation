@@ -6,7 +6,7 @@
  [Precaution]( 
  #precaution) 
  
-  [Data Cleaning and Preparation](#data cleaning and preparation)
+  [DataCleaning Preparation](#datacleaning-preparation)
  
  STEP 1: Excel ( Sales Data)
  
