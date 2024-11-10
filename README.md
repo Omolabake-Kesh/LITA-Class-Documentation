@@ -3,18 +3,17 @@
 
  [Project overview](#Project-overview)
  
- [Data Sources](#data-sources)
+ Data Sources
  
- [Tools Used](#tools-used)
+ Tools Used
  
  [Precaution]( 
  #precaution) 
  
  
-[Caution](#caution)
+Caution
  
- [Data Cleaning and Preparation](#
- data-cleaning and preparation)
+ [Data Cleaning and Preparation](#data-cleaning and preparation)
  
  STEP 1: Excel ( Sales Data)
  
