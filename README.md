@@ -6,20 +6,7 @@
  [Precaution]( 
  #precaution) 
  
-  [DataCleaning Preparation](#datacleaning-preparation)
- 
- STEP 1: Excel ( Sales Data)
- 
- STEP 1: Excel ( Customer Subscription Data)
- 
- STEP 2: SQL ( Sales Data)
- 
- STEP 2: SQL ( Customer Subscription Data)
- 
- STEP 3: Power BI ( Sales Data)
- 
- 
-##  Project Steps: This project will be done in steps.
+ ##  Project Steps: This project will be done in steps.
 ### Step 1 Excel.
 ### Step2 SQL: Structure Query Language. 
 ### Step3 Power BI.
