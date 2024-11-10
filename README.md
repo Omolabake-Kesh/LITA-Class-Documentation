@@ -11,10 +11,10 @@
  #precaution) 
  
  
-[Caution](#caution0)
+[Caution](#caution)
  
  [Data Cleaning and Preparation](#
- data-cleaning-and-preparation)
+ data-cleaning and preparation)
  
  STEP 1: Excel ( Sales Data)
  
